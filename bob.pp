@@ -1,4 +1,7 @@
 
+group { 'sysadmins':
+    ensure => present,
+}
 
 user { 'bob':
     ensure => present,
