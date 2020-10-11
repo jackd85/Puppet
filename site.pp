@@ -1,3 +1,3 @@
 node "agent.localdomain" {
-  include sysadmins
+  include motd
 }
