@@ -1,2 +1,4 @@
 
 Welcome to Power Puppet training!
+
+Added manual text
